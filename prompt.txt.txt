@@ -1,0 +1,44 @@
+
+
+Project: 2D Graphics Editor
+
+1.  Create a basic 2D graphics editor application with a blank canvas
+    and main menu structure.
+
+2.  Add drawing tools:
+
+-   Pencil
+-   Line
+-   Rectangle
+-   Circle
+-   Eraser
+
+3.  Create a toolbar with icons and labels for each drawing tool.
+
+4.  Implement mouse events for drawing on the canvas:
+
+-   Click and drag to draw
+-   Release to finish shape
+
+5.  Add color selection and brush size controls.
+
+6.  Add file operations:
+
+-   New
+-   Open
+-   Save
+-   Save As
+
+7.  Add undo and redo functionality.
+
+8.  Create a layer for displaying shapes separately.
+
+9.  Improve UI with dark theme and clean layout.
+
+10. Add shape editing:
+-   Move
+-   Resize
+-   Delete
+ Build a complete 2D Graphics Editor application with a
+professional interface, drawing tools, color picker, save/open support,
+undo/redo, and optimized performance.
